@@ -8,7 +8,7 @@ This project presents a comprehensive **Spotify Dashboard** that provides insigh
 ## Screenshots 🖼️
 
 ### 🎵 Music Analysis
-[Music Analysis Screenshot](https://github.com/user-attachments/assets/f5d02d5a-fd6d-465a-b879-08889cd19e45)
+![Music Analysis Screenshot](https://github.com/user-attachments/assets/f5d02d5a-fd6d-465a-b879-08889cd19e45)
 
 ### 🎤 Artists Analysis
 (Screenshot for Artists Analysis page)
