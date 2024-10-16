@@ -48,7 +48,7 @@ This project presents a comprehensive **Spotify Dashboard** that provides insigh
    git clone https://github.com/yourusername/Spotify-Dashboard.git
    ```
 
-   Alternatively, you can download the [ZIP file](https://github.com/yourusername/Spotify-Dashboard/archive/refs/heads/main.zip) and extract it to a folder on your computer.
+   Alternatively, you can download the [ZIP file](https://github.com/adityaK1950/Spotify-Dashboard.git) and extract it to a folder on your computer.
 
 2. Navigate to the project directory:
    ```bash
